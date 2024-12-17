@@ -1,5 +1,5 @@
-## 🚀 **Loading Profile... 100% Complete**
-### 🚀 **Welcome to the Character Profile – Stats Unlocked for ZaidMahmood8**  
+## ⏳ **Loading Profile... 100% Complete**
+### 📊 **Welcome to the Character Profile – Stats Unlocked for ZaidMahmood8**  
 - 🎓 Pursuing my Master’s in Management in Analytics at McGill University.
 - 🤖 Focused on predicting and optimizing business problems through a data prespective
 - 🚌 Currently working on an AI-driven solution with KPI Digital that aims to improve transit usage experience.
