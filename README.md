@@ -1,10 +1,10 @@
 ## Hi there 👋
-🎓 Pursuing my Master’s in Management in Analytics at McGill University.
-🤖 Focused on predicting and optimizing business problems through a data prespective
-🚌 Currently working on an AI-driven solution with KPI Digital that aims to improve transit usage experience.
-🎮 I'm an avid gamer! My personal geek-out topics are
-- ⚽ **FIFA**  
-- 🥋 **Tekken**
+- 🎓 Pursuing my Master’s in Management in Analytics at McGill University.
+- 🤖 Focused on predicting and optimizing business problems through a data prespective
+- 🚌 Currently working on an AI-driven solution with KPI Digital that aims to improve transit usage experience.
+- 🎮 I'm an avid gamer! My personal geek-out topics are
+  - ⚽ **FIFA**  
+  - 🥋 **Tekken**
 <!--
 **ZaidMahmood8/ZaidMahmood8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
