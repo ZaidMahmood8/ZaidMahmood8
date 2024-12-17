@@ -27,7 +27,28 @@
 ### 🏆 **Side Quests Completed: Additional Skills Unlocked**
 - 🎲 **Time Series Forecasting**: Predicting trends and behaviors over time.  
 - 💾 **Big Data Tools**: Working with SQL, and cloud services.  
-- 🎨 **Visualization Skills**: Presenting data insights with Power BI, ggplot, and Python libraries.   
+- 🎨 **Visualization Skills**: Presenting data insights with Power BI, ggplot, and Python libraries.
+
+
+
+###🛠️ Loadout
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-31A8FF?style=flat&logo=data&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0052CC?style=flat&logo=machinelearning&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Google Suite](https://img.shields.io/badge/Google%20Suite-4285F4?style=flat&logo=google&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Gurobi](https://img.shields.io/badge/Gurobi-CC0000?style=flat&logo=gurobi&logoColor=white) 
 <!--
 **ZaidMahmood8/ZaidMahmood8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
